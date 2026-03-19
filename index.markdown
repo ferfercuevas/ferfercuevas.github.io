@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-layout: home
-title: Home
+layout: page
+title: Fernando Fernández de Cuevas
+permalink: /
 ---
 
 # Fernando Fernández de Cuevas
@@ -13,17 +14,9 @@ I am interested in cognitive development, consciousness, learning, and the ways 
 
 My work sits at the intersection of cognitive neuroscience, developmental science, and philosophy of mind. I am especially interested in how cognition takes shape, how adaptive learning unfolds, and how changes in brain organization relate to changes in subjective and intellectual life.
 
-I am currently pursuing a Master's in Cognitive Neuroscience at Radboud University.
+I am currently pursuing a Master’s in Cognitive Neuroscience at Radboud University.
 
-## Explore
+## Pages
 
-- [Curriculum Vitae](/cv/)
+- [CV](/cv/)
 - [Publications](/publications/)
-
-## Current interests
-
-- Cognitive development  
-- Consciousness and subjective experience  
-- Learning and memory  
-- Neuroimaging and brain organization  
-- Philosophy of mind

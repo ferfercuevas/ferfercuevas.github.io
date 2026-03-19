@@ -23,21 +23,21 @@ email: fernando.fdcl (at) ru.nl
 description: >- # this means to ignore newlines until "baseurl:"
     Personal academic website of Fernando Fernández de Cuevas.
 
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ferfercuevas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: 
-github_username:  ferfercuevas
-
-# Build settings
-
+title: Fernando Fernández de Cuevas
+description: Personal academic website
+baseurl: ""
+url: "https://ferfercuevas.github.io"
 theme: minima
 
 header_pages:
-  - cv.md
-  - publications.md
+  - cv.markdown
+  - publications.markdown
 
-plugins:
-  - jekyll-feed
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/ferfercuevas
 
 # Exclude from processing.
 # The following items will not be processed, by default.
