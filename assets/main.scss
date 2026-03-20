@@ -1,0 +1,243 @@
+---
+---
+
+@import "minima";
+
+/* =========================
+   1. PAGE / BODY
+   ========================= */
+
+body {
+  background: linear-gradient(
+    to bottom,
+    #f6f7d7 0%,
+    #edf3e8 40%,
+    #edf3e8 100%
+  ) !important;
+  color: #1f1f1f;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+}
+
+.wrapper {
+  max-width: 760px;
+}
+
+
+/* =========================
+   2. HEADER
+   ========================= */
+
+.site-header {
+  background: transparent;
+  border: none;
+}
+
+.site-title {
+  display: none !important;
+}
+
+.site-header .wrapper {
+  max-width: 760px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.site-header .wrapper::after {
+  content: "";
+  display: block;
+  clear: both;
+  margin-top: 16px;
+  border-top: 1px solid rgba(53, 94, 59, 0.5);
+}
+
+.site-logo {
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.site-logo img {
+  display: block;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+
+/* =========================
+   3. MAIN PAGE CONTENT
+   ========================= */
+
+.page-heading {
+  display: none;
+}
+
+.page-content {
+  padding-top: 36px;
+  position: relative;
+}
+
+
+
+/* =========================
+   4. GENERAL TEXT / HEADINGS
+   ========================= */
+
+h1, h2, h3 {
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+p, li {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+
+/* =========================
+   5. LINKS
+   ========================= */
+
+a,
+a:visited {
+  color: #6b4423 !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #3f2b1d !important;
+  text-decoration: underline;
+}
+
+
+/* =========================
+   6. MAIN TITLE
+   ========================= */
+
+.hero-name,
+.hero-name-alt {
+  margin: 0 0 30px 0;
+  line-height: 0.92;
+  color: #8f755f; /* lighter brown for non-bold text */
+}
+
+.hero-name .line1,
+.hero-name .line2 {
+  display: block;
+  font-size: clamp(3rem, 7vw, 5.1rem);
+}
+
+.hero-name .name-strong,
+.hero-name-alt .strong {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #5a3e2b; /* darker brown for bold parts */
+}
+
+
+/* Leaf accent on á */
+.leaf-accent {
+  position: relative;
+  display: inline-block;
+}
+
+.leaf-accent::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0.05em;
+  width: 0.35em;
+  height: 0.14em;
+  background: #355e3b;
+  border-radius: 50% 50% 50% 0;
+  transform: translateX(-25%) rotate(-25deg);
+}
+
+/* =========================
+   7. HERO LAYOUT (TITLE + IMAGE)
+   ========================= */
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+
+/* 2/3 text */
+.hero-text {
+  flex: 3;
+}
+
+/* 1/3 image */
+.hero-image {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hero-image img {
+  width: 150%;
+  max-width: 220px;
+  height: auto;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  .hero-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-image {
+    justify-content: flex-start;
+  }
+
+  .hero-image img {
+    margin-top: 10px;
+  }
+}
+
+/* =========================
+   8. FOOTER AREA INSIDE PAGE
+   ========================= */
+
+.footer-line {
+  margin: 40px 0 20px 0;
+  border: none;
+  border-top: 1px solid #355e3b;
+  opacity: 0.5;
+}
+
+.social-links-custom {
+  margin-top: 10px;
+  font-size: 0.95rem;
+}
+
+.social-links-custom a {
+  color: #355e3b !important;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.social-links-custom a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================
+   9. DEFAULT MINIMA FOOTER CLEANUP
+   ========================= */
+
+.site-footer {
+  background: transparent;
+  border: none;
+}
+
+.footer-col-wrapper,
+.social-links,
+.feed-subscribe {
+  display: none;
+}

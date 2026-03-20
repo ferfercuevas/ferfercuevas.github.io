@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fernando Fernandez de Cuevas
+title: ""
 email: fernando.fdcl (at) ru.nl
-description: >- # this means to ignore newlines until "baseurl:"
-    Personal academic website of Fernando Fernández de Cuevas.
 
-title: Fernando Fernández de Cuevas
 description: Personal academic website
 baseurl: ""
 url: "https://ferfercuevas.github.io"
