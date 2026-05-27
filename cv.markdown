@@ -34,7 +34,7 @@ fernando.fdcl@ru.nl · ORCID [0000-0002-3289-8674](https://orcid.org/0000-0002-3
 
 ---
 
-## Research output
+## Output
 
 ### Publications
 
