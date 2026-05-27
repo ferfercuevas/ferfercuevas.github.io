@@ -23,7 +23,7 @@ fernando.fdcl@ru.nl · ORCID [0000-0002-3289-8674](https://orcid.org/0000-0002-3
 
 ## Research positions
 
-**Nov 2025 – Jul 2026** — MSc Thesis student, Clinical Neuroanatomy of Language Group, Donders Institute, Nijmegen, Netherlands
+**Nov 2025 – Jul 2026** — MSc Thesis student, Clinical Neuroanatomy of Language Group (CNL Lab), Donders Institute, Nijmegen, Netherlands (with Stephanie Forkel)
 
 **Oct 2025 – Aug 2026** — Research Assistant, *Wired for Growth*, Language and Development Department, Max Planck Institute for Psycholinguistics / Donders Institute, Nijmegen, Netherlands
 
