@@ -4,17 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
-This page collects current research projects, manuscripts in preparation, and other scholarly outputs. It will be updated as the work develops.
+## Publications
 
-## In preparation
+*In preparation*
 
-**Tuned for Language: Structural Correlates of Early Language Development** *(MSc thesis, expected Jul 2026)*
-A PRISMA-guided systematic review of structural MRI and diffusion imaging markers of language development in children aged 2–6. Clinical Neuroanatomy of Language Group, Donders Institute.
+[T1] **Fernández de Cuevas F.** *Tuning to Language — A Systematic Review of the Structural Correlates of Early Language Development.* MSc thesis manuscript, Radboud University / Donders Institute, expected Jul 2026.
 
-## Ongoing projects
+## Talks
 
-**Wired for Growth** — Feasibility study of structural brain correlates of language abilities in children aged 2–6. Language and Development Department, Radboud / Donders. *(Research assistant)*
+*None yet.*
 
-**The reliability paradox in fMRI** — Collaborative review with Nicholas Judd (Lifespan Cognitive Dynamics Lab) on why robust tasks often fail to capture reliable individual differences, and emerging solutions for brain–behaviour reproducibility.
+## Posters
 
-**Machine learning on paediatric meta-analytic neuroimaging data** — Funded summer internship project (Radboud Honours Programme) with Valentina Pacella.
+**May 2026** — **Fernández de Cuevas F.** *Tuning to Language — A Systematic Review of the Structural Correlates of Early Language Development.* Donders Day, Nijmegen, Netherlands.
+
+**Jun 2023** — **Fernández de Cuevas F.** *Di-synaptic collicular outputs through the mouse pulvinar.* NERF Retreat, Leuven, Belgium.

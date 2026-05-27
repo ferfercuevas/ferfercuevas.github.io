@@ -4,68 +4,112 @@ title: CV
 permalink: /cv/
 ---
 
-## Profile
+fernando.fdcl@ru.nl · ORCID [0000-0002-3289-8674](https://orcid.org/0000-0002-3289-8674) · [LinkedIn](https://www.linkedin.com/in/fernando-fernandezdecuevas/) · [Bluesky](https://bsky.app/profile/ferfercuevas.bsky.social) · [GitHub](https://github.com/ferfercuevas)
 
-I am a Master's student in Cognitive Neuroscience at Radboud University, working at the intersection of cognitive development and computational modelling. My research investigates how brain structure relates to early language development, and how machine learning approaches can help capture the mechanisms by which cognition emerges and changes over time.
-
-My long-term goal is to develop tools that support parenting by deepening our understanding of children's cognitive development.
+---
 
 ## Education
 
-**MSc Cognitive Neuroscience** — Radboud University, Nijmegen *(2024 – 2026)*
+**2024 – 2026** — MSc Cognitive Neuroscience (Research Master), Radboud University, Donders Institute, Nijmegen, Netherlands
+*Thesis: Tuning to Language — A Systematic Review of the Structural Correlates of Early Language Development*
 
-**MSc Molecular Neurobiology** — Katholieke Universiteit Leuven *(2021 – 2023)*
+**2021 – 2023** — MSc Molecular Biology, Katholieke Universiteit Leuven, Belgium
+*Thesis: Di-synaptic collicular outputs through the mouse pulvinar (Karl Farrow Lab, NERF)*
 
-**BSc Biology** — Complutense University of Madrid *(2017 – 2021)*
+**2017 – 2021** — BSc Biology, Universidad Complutense de Madrid, Spain
+*Final-year Erasmus exchange and BSc thesis at KU Leuven, Belgium (Eve Seuntjens Lab)*
 
-## Research experience
+---
 
-**Master's thesis — *Tuned for Language: Structural Correlates of Early Language Development*** *(Nov 2025 – Jul 2026)*
-Clinical Neuroanatomy of Language Group, Donders Institute, Nijmegen.
-PRISMA-guided systematic review of structural MRI and diffusion imaging markers of language development in typically developing children aged 2–6. I use Python-based pipelines for de-duplication and rule-based screening to enable transparent, reproducible study selection. The review examines how different aspects of language (vocabulary, phonology, syntax) map onto cortical regions and white-matter tracts across developmental stages, how language assessments are tailored to specific age groups, and how variability in MRI acquisition and analysis pipelines contributes to differences across studies.
+## Research positions
 
-**Research assistant — Wired for Growth** *(Oct 2025 – Aug 2026)*
-Language and Development Department, Radboud / Donders.
-Feasibility study identifying structural brain correlates of language abilities in children aged 2–6. Hands-on experience with advanced MRI acquisition sequences and processing pipelines, including developing a custom pipeline. Contributed to the project proposal, data acquisition, and analysis, and learned to coordinate across collaborating labs with complementary expertise.
+**Nov 2025 – Jul 2026** — MSc Thesis student, Clinical Neuroanatomy of Language Group, Donders Institute, Nijmegen, Netherlands
+**Oct 2025 – Aug 2026** — Research Assistant, *Wired for Growth*, Language and Development Department, Max Planck Institute for Psycholinguistics / Donders Institute, Nijmegen, Netherlands
+**Nov 2024 – Sep 2025** — Research Intern, Lifespan Cognitive Dynamics Lab, Donders Institute, Nijmegen, Netherlands (with Nicholas Judd and Lea Michel)
+**Dec 2024 – Sep 2025** — Summer Intern, Radboud Honours Programme (*Morphospace*), Donders Institute, Nijmegen, Netherlands (with Valentina Pacella)
+**Dec 2024 – Feb 2025** — Research Intern, Statistical Imaging Neuroscience, Donders Institute, Nijmegen, Netherlands (with Lennart Oblong)
+**May 2022 – Sep 2023** — MSc Thesis student, Karl Farrow Lab, NERF / KU Leuven, Belgium (with Norma Kuhn)
+**Jun 2021 – Aug 2021** — Summer Intern, Vincent Bonin Lab, NERF / KU Leuven, Belgium (with Ben Vermaercke)
+**Sep 2020 – Jun 2021** — BSc Thesis student, Eve Seuntjens Lab, KU Leuven, Belgium
 
-**Research intern — Lifespan Cognitive Dynamics Lab** *(May 2025 – Sep 2025)*
-Together with Nicholas Judd, explored the reliability paradox in fMRI research — why robust tasks often fail to capture reliable individual differences — and reviewed emerging solutions such as multivariate models, longer scans, and neural signatures for improving reproducibility in brain–behaviour studies.
+---
 
-**Summer intern — Radboud Honours Programme** *(Dec 2024 – Sep 2025)*
-Funded summer internship applying machine learning approaches to meta-analytic neuroimaging data in a developmental (paediatric) context, in collaboration with researcher Valentina Pacella. Recruited and mentored a bachelor's student through the project.
+## Research output
 
-**Research intern — Statistical Imaging Neuroscience** *(Dec 2024 – Feb 2025)*
-Donders Institute, Nijmegen.
-Developed regression models (GLM and logistic regression) in R to relate Polygenic Risk Scores to phenotype and covariate data, linking genetic patterns to brain phenotypes.
+### Publications
+
+*In preparation*
+
+[T1] **Fernández de Cuevas F.** *Tuning to Language — A Systematic Review of the Structural Correlates of Early Language Development.* MSc thesis manuscript, Radboud University / Donders Institute, expected Jul 2026.
+
+### Talks
+
+*None yet.*
+
+### Posters
+
+**May 2026** — **Fernández de Cuevas F.** *Tuning to Language — A Systematic Review of the Structural Correlates of Early Language Development.* Donders Day, Nijmegen, Netherlands.
+**Jun 2023** — **Fernández de Cuevas F.** *Di-synaptic collicular outputs through the mouse pulvinar.* NERF Retreat, Leuven, Belgium.
+
+---
 
 ## Teaching
 
-**Teaching Assistant — Radboud University** *(Jan 2025 – Jun 2026)*
-Statistics II, Neuroanatomy, and Neural Basis of Cognition and Perception. Mentored students and contributed to course improvements.
+**Jan 2025 – Jun 2026** — Teaching Assistant, Neural Basis of Cognition and Perception, Radboud University, Nijmegen, Netherlands
+**Aug 2025 – Oct 2025** — Teaching Assistant, Neuroanatomy, Radboud University, Nijmegen, Netherlands
+**Jan 2025 – Jun 2025** — Teaching Assistant, Statistics II, Radboud University, Nijmegen, Netherlands
 
-## Service
+---
 
-**Chair — Dondrite Student Association** *(Sep 2024 – Jul 2025)*
-Led the student association of the MSc Cognitive Neuroscience programme. Organised the programme's Career Day, science movie screenings with discussions, neurophilosophy cafés, and other educational events.
+## Funding
 
-## Continuing training
+**2026** — Analytical Connectionism Summer School Scholarship (SEK 7,000)
+**2025** — Radboud Honours Programme Award, funded summer research (€3,300)
 
-**Deep learning** *(Sep 2025 – Jul 2026)*
-Implementing different neural network architectures (MLPs, CNNs, LSTMs, Transformers) in PyTorch. Attending the Neuromatch Deep Learning summer school in July 2026.
+---
 
-## Research interests
+## Conferences attended
 
-- Cognitive development across childhood
-- Neuroanatomical measures of cognitive development
-- Language development
-- Parent–child interactions
-- Multi-dimensional embeddings
-- How AI can help capture aspects of cognition to support cognitive development
+**Jun 2026** — OHBM Annual Meeting, Bordeaux, France
+**Sep 2025** — Ghent Conference on Cognitive Control, Ghent, Belgium
+**Nov 2024** — Donders PhD Conference, Nijmegen, Netherlands
+**Sep 2022** — VIB Neurotechnology Conference, Leuven, Belgium (volunteer)
+**Jul 2022** — FENS Forum, Paris, France (lab support, Karl Farrow Lab)
 
-## Languages
+---
 
-English, Spanish, French, Dutch.
+## Courses and workshops
 
-## Contact
+**Aug 2026** — Analytical Connectionism Workshop, Chalmers University, Gothenburg, Sweden *(upcoming)*
+**Jul 2026** — Neuromatch Academy, Deep Learning Summer School (online) *(upcoming)*
+**Sep 2025 – Jul 2026** — Deep Learning courses (Data Science programme), Radboud University, Nijmegen, Netherlands
+**Nov 2025** — Workshop on Data Management, Donders Institute, Nijmegen, Netherlands
+**Nov 2025** — Workshop on HPC Cluster, Donders Institute, Nijmegen, Netherlands
+**Oct 2025** — Workshop on Tractography, Bordeaux, France
+**Dec 2024** — Winter School on Neurometaphysics, Elche, Spain
+**Aug 2024** — Neuroanatomy Course, Radboud University / Donders Institute, Nijmegen, Netherlands
+**2022** — FELASA B Certificate (Laboratory Animal Sciences), KU Leuven, Belgium
 
-[fernando.fdcl@ru.nl](mailto:fernando.fdcl@ru.nl) · Nijmegen, Netherlands
+---
+
+## Service and leadership
+
+**Mar 2026** — Volunteer, Donders Open Day, Nijmegen, Netherlands
+**Feb 2026** — Volunteer, Kletskoppen, Nijmegen, Netherlands
+**May 2025** — Organiser, Career Day, Radboud MSc Cognitive Neuroscience, Nijmegen, Netherlands
+**Sep 2024 – Jul 2025** — Chair (Education Committee), Dondrite Student Association, Radboud MSc Cognitive Neuroscience, Nijmegen, Netherlands
+**Jan 2024 – Aug 2024** — Crew Leader, Food Factory Leuven, Belgium
+**Jan 2024 – Aug 2024** — Children's Tennis Instructor (ages 4–17), Stade Leuven, Belgium
+**Dec 2021 – Jun 2023** — Founder and President, Food Saving Leuven (KU Leuven branch), Belgium
+**Nov 2021 – Sep 2022** — Team Leader, SensUs Student Competition (Team PULSe), KU Leuven, Belgium
+
+---
+
+## Skills
+
+**Programming** · Python (PyTorch, neuroimaging analysis), R, MATLAB, Bash, Git/GitHub
+**Machine learning** · MLPs, CNNs, LSTMs, Transformers in PyTorch
+**Neuroimaging** · structural MRI, diffusion imaging, custom processing pipelines, tractography, HPC workflows
+**Statistical modelling** · GLM, logistic regression, polygenic risk scores
+**Methodology** · PRISMA-guided systematic reviews
+**Prior wet-lab training** · stereotactic surgery in rodents, immunohistochemistry, confocal microscopy, in-vivo imaging, in-utero electroporation
