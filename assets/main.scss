@@ -77,6 +77,23 @@ body {
   position: relative;
 }
 
+.page-content hr {
+  margin: 48px 0;
+  border: none;
+  border-top: 1px solid rgba(53, 94, 59, 0.3);
+}
+
+.page-content h2 {
+  margin-top: 8px;
+  margin-bottom: 22px;
+}
+
+.page-content h3 {
+  margin-top: 28px;
+  margin-bottom: 12px;
+  font-size: 1.05rem;
+  color: #5a3e2b;
+}
 
 
 /* =========================
